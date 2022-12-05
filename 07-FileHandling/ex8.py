@@ -1,4 +1,4 @@
-file = open("allcountries.txt", 'r')
+file = open('07-FileHandling/allcountries.txt', 'r')
 
 file_content = file.read()
 

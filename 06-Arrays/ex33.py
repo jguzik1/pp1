@@ -1,0 +1,1 @@
+nie no bez przesady

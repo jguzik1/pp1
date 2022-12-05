@@ -14,3 +14,4 @@ def amount_to_pay(money):
     return coins
 
 
+print(amount_to_pay(9))

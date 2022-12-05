@@ -1,4 +1,4 @@
-file = open('numbers.txt', 'r')
+file = open('07-FileHandling/numbers.txt', 'r')
 
 
 sum = 0

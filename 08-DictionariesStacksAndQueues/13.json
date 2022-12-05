@@ -1,0 +1,11 @@
+{
+    "Name": "Jan",
+    "Surname": "Kowalski",
+    "Currently_active": true,
+    "Age": 23,
+    "Hobbies": [
+        "football",
+        "Cycling"
+    ],
+    "Degrees": null
+}

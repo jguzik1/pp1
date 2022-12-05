@@ -1,4 +1,4 @@
-file = open('countries.txt', 'r')
+file = open('07-FileHandling\countries.txt', 'r')
 
 linia = 1
 for line in file:
